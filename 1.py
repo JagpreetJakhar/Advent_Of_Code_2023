@@ -55,3 +55,5 @@ for line in lines:
         n+=1
     total += ans[0] * 10 + ans[-1]
 print(total)
+
+# ans - 54925
